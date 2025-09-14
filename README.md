@@ -86,8 +86,10 @@ You can host the site easily on:
 ---
 
 ## 📸 Screenshots (Optional)
+<img width="1880" height="963" alt="image" src="https://github.com/user-attachments/assets/f41090fe-78b8-46ca-bab4-b0bb584269f6" />
+<img width="1870" height="958" alt="image" src="https://github.com/user-attachments/assets/e9b2ad36-2f57-4316-933a-8aeed045482a" />
+<img width="1873" height="983" alt="image" src="https://github.com/user-attachments/assets/73b774c8-db77-4c63-8ce0-b9d95052f7fe" />
 
-_Add screenshots of your homepage, menu, and other sections here_  
 
 ---
 
